@@ -17,6 +17,11 @@ Some technologies used:
 - notebook
 - pandas
 - matplotlib
+- seaborn
+- nltk
+- scikit-learn
+- wordcloud
+- xgboost
 
 To see the project in action, open and run the notebooks.
 
